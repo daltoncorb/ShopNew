@@ -4,6 +4,6 @@ using Microsoft.AspNetCore.Mvc;
 public class CategoryController : ControllerBase
 {
     public string retornar(){
-        return "retornei";
+        return "Agora retornei algo novo";
     }
 }
