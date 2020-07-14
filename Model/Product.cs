@@ -21,6 +21,10 @@ namespace ShopNew.Models
         [Range(0.2, double.MaxValue, ErrorMessage = "Valor mínimo de 0,2 Reais")]
         public decimal Price { get; set; }
 
+        [Required(ErrorMessage = "Este campo é obrigatório")]
+        [Range(1, int.MaxValue, ErrorMessage = "Categoria inválida")]
+        public int CategoryId {get; set; }
+
         public Category Category { get; set; }
 
 

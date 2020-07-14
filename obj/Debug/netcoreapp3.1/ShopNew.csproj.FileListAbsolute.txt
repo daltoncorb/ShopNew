@@ -37,3 +37,9 @@ C:\Users\HP\source\repos\BaltazarIo\ShopNew\bin\Debug\netcoreapp3.1\Microsoft.Ex
 C:\Users\HP\source\repos\BaltazarIo\ShopNew\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 C:\Users\HP\source\repos\BaltazarIo\ShopNew\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
 C:\Users\HP\source\repos\BaltazarIo\ShopNew\obj\Debug\netcoreapp3.1\ShopNew.csproj.CopyComplete
+C:\Users\HP\source\repos\BaltazarIo\ShopNew\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\source\repos\BaltazarIo\ShopNew\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\source\repos\BaltazarIo\ShopNew\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\HP\source\repos\BaltazarIo\ShopNew\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\HP\source\repos\BaltazarIo\ShopNew\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\HP\source\repos\BaltazarIo\ShopNew\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll

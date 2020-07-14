@@ -29,7 +29,7 @@ namespace ShopNew
         {
             services.AddControllers();
             //esse é o datacontext que gera o banco de dados
-            services.AddDbContext<DataContext>(opt => opt.UseInMemoryDatabase("Database"));
+            services.AddDbContext<DataContext>(opt => opt.UseNpgsql(Configuration.GetConnectionString("ConnectionString")));
             //destroe as conexões abertas
             services.AddScoped<DataContext, DataContext>();
         }
