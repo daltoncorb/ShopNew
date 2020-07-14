@@ -55,6 +55,14 @@
             "Npgsql.EntityFrameworkCore.PostgreSQL.Design": {
               "target": "Package",
               "version": "[1.1.1, )"
+            },
+            "microsoft.aspnetcore.Authentication": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "microsoft.aspnetcore.Authentication.jwtbearer": {
+              "target": "Package",
+              "version": "[3.1.6, )"
             }
           },
           "imports": [
